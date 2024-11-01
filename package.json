@@ -1,0 +1,11 @@
+{
+  "name": "js-array-module",
+  "version": "1.0.0",
+  "description": "practicing commonjs module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Heiress",
+  "license": "ISC"
+}
